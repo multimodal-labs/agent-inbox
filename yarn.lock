@@ -996,6 +996,18 @@
   resolved "https://registry.yarnpkg.com/@nolyfill/is-core-module/-/is-core-module-1.0.39.tgz#3dc35ba0f1e66b403c00b39344f870298ebb1c8e"
   integrity sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==
 
+"@openai/chatkit-react@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@openai/chatkit-react/-/chatkit-react-1.4.1.tgz#ff8538fd1cd02e82c0d0338adb1173847d3abbba"
+  integrity sha512-/PvaID18iCh1cbcJTuJDzfMAAHTZ/yDdQAIL/es6D7Wju8xjjnojEy1u/N8AdWs+65Hz3YfIoeOQ5/lD2n2VpQ==
+  dependencies:
+    "@openai/chatkit" "1.3.0"
+
+"@openai/chatkit@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@openai/chatkit/-/chatkit-1.3.0.tgz#88d858c15e2308a4919284094591331d6a83397b"
+  integrity sha512-b/0UmnUAvTX7Zi3juAt4+FPGVMCguFlkR7+VccvEHl1vHXM3HjN4FNMr4LEMXg4nWp0t3i+1Hi2FXIiZesO0JA==
+
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
